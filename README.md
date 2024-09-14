@@ -10,7 +10,7 @@
 
 -----
 ### 🎉certificate of completion🎉
-[운영체제.pdf](https://github.com/user-attachments/files/17001077/default.pdf)
+<image width="200">[운영체제.pdf](https://github.com/user-attachments/files/17001077/default.pdf)
 [스프링 핵심 원리.pdf](https://github.com/user-attachments/files/17001088/-2.pdf)
 [HTTP 웹 기본 지식.pdf](https://github.com/user-attachments/files/17001089/-3.pdf)
 [JPA 기본.pdf](https://github.com/user-attachments/files/17001181/certificate.pdf)
