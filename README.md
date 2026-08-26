@@ -1,7 +1,7 @@
 <div align = center>
   
 ### 👋 Thanks for Visiting My GitHub 👋 
-</br> I'm Sangik Hwang, I'm learning Backend-Engineer
+</br> I'm Sangik Hwang, I'm building medical AI program which can help people and also improve accuracy
 
 -----
 
